@@ -1,4 +1,5 @@
-### - 👋 I'm Jared; I'm interested in data science and analytics.
+### - 👋 Hi, I'm Jared Barnes.  
+- ⚡ I'm interested in data science and analytics.
 - 🌱 My background is in Physics, Math, and teaching.
 - 🔭 I’m currently working on data visualization tools.
 - 💬 Ask me about my latest projects.

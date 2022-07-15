@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on data visualization tools.
 - 💬 Ask me about my latest projects.
 - 📫 How to reach me: jared.barnes@yahoo.com
+- See Tableau Viz's: https://public.tableau.com/app/profile/jared.barnes
 
 <!--
 **JaredBarnes6/JaredBarnes6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
